@@ -5,7 +5,7 @@ Download the directory, this can be mainly done in two ways, one is by [cloning 
 Open up terminal/shell in the downloaded directory
 ## Set up instructions
 Install all the dependencies
-`pip install -r requrements.txt`
+`pip install -r requirements.txt`
 
 Run the flask app by using:
 `flask run`
