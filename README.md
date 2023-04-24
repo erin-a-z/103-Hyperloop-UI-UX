@@ -1,7 +1,7 @@
 The front end for Hyperloop Visison System.
 
 ## Download instructions
-Download the directory, this can be mainly done in two ways, one is by [cloning the directory]{https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository}, the other is by [downloading it directly{https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/}].
+Download the directory, this can be mainly done in two ways, one is by [cloning the directory]{https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository/}, the other is by [downloading it directly{https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/}].
 Open up terminal/shell in the downloaded directory
 ## Set up instructions
 Install all the dependencies
